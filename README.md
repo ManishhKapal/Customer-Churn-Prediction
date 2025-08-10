@@ -1,2 +1,2 @@
 # Customer-Churn-Prediction
-This a Customer Churn Prediction model using Machine Learning.
+This a Customer Churn Prediction Model using Machine Learning.
